@@ -1,7 +1,8 @@
 # Neural_Network_Charity_Analysis
 ## Overview:
 - The goal of this project is to examine and categorize the success of philanthropic donations using deep-learning neural networks and the TensorFlow framework in Python.
-We use the following methods for the analysis:
+ 
+ We use the following methods for the analysis:
 - preprocessing the data for the neural network model,
 - compile, train and evaluate the model,
 - optimize the model.
